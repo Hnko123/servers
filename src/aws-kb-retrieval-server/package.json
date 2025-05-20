@@ -19,8 +19,9 @@
     "watch": "tsc --watch"
   },
   "dependencies": {
+    "@aws-sdk/client-bedrock-agent-runtime": "^3.0.0",
     "@modelcontextprotocol/sdk": "0.5.0",
-    "@aws-sdk/client-bedrock-agent-runtime": "^3.0.0"
+    "@modelcontextprotocol/server-aws-kb-retrieval": "file:"
   },
   "devDependencies": {
     "@types/node": "^22",

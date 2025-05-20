@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "1.0.1",
+    "@modelcontextprotocol/server-postgres": "file:",
     "pg": "^8.13.0"
   },
   "devDependencies": {
